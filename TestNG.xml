@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Framework_Implementation">
+
+	<listeners>
+		<listener class-name="com.selenium.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="Framework_Implementation Test1">
+		<parameter name="browser" value="chrome" />
+
+		<classes>
+			<!-- <class name="com.selenium.testCases.TC_Login_001" /> -->
+			<class name="com.selenium.testCases.LoginDDT_001" />
+			<!-- <class name="com.selenium.testCases.TC_AddStory_001" /> -->
+		</classes>
+
+	</test>
+
+
+	<!-- <test name="Framework_Implementation Test2">
+		<parameter name="browser" value="firefox" />
+
+		<classes>
+			<class name="com.selenium.testCases.TC_Login_001" />
+			<class name="com.selenium.testCases.LoginDDT_001" />
+		</classes>
+
+	</test> -->
+
+</suite>

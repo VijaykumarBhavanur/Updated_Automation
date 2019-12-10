@@ -1,0 +1,12 @@
+2019-12-05 09:14:59 INFO  Framework_Implementation:16 - URL Opened
+2019-12-05 09:14:59 INFO  Framework_Implementation:19 - Username entered
+2019-12-05 09:15:00 INFO  Framework_Implementation:21 - Password entered
+2019-12-05 09:15:02 INFO  Framework_Implementation:28 - Login test passed
+2019-12-05 09:18:49 INFO  TC_Login_001:18 - URL Opened
+2019-12-05 09:18:49 INFO  TC_Login_001:21 - Username entered
+2019-12-05 09:18:49 INFO  TC_Login_001:23 - Password entered
+2019-12-05 09:18:51 INFO  TC_Login_001:30 - Login test passed
+2019-12-05 09:20:05 INFO  Framework_Implementation:17 - URL Opened
+2019-12-05 09:20:05 INFO  Framework_Implementation:20 - Username entered
+2019-12-05 09:20:05 INFO  Framework_Implementation:22 - Password entered
+2019-12-05 09:20:08 INFO  Framework_Implementation:29 - Login test passed
